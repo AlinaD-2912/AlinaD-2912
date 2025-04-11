@@ -2,7 +2,7 @@
 
 My name is Alina, and I’m a **web developer in training** (développeur web en formation) based in France.
 
-**✨ What I’ve learned so far:**
+**✨ What I’ve learned so far: ✨**
 
 - Solid knowledge of **HTML**, **CSS**, and **Bootstrap**
 - Worked on a **group project** hosted right here on GitHub
