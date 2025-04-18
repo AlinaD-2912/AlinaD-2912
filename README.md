@@ -14,7 +14,7 @@ I’m very curious and eager to keep learning — not just during my training, b
 
 **📫 Let’s connect!**
 
-Feel free to check out my projects, and don’t hesitate to connect or reach out!
+Feel free to check out my projects, and don’t hesitate to connect or reach out! You can contact me here : alina.dvornyk@le-capus-numerique.fr .
 
 
 
