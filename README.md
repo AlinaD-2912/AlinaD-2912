@@ -2,7 +2,7 @@
 
 My name is Alina, and I’m a **web developer in training** (développeur web en formation) based in France.
 
-#✨ What I’ve learned so far: ✨
+**✨ What I’ve learned so far: ✨**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
