@@ -30,11 +30,7 @@ My journey into tech is driven by curiosity and a desire to build things that pe
 
 ## 🌱 Currently Learning
 
-I'm always eager to expand my skills and stay up to date with modern development practices. Right now, I’m especially interested in:
-
-- ✨ **JavaScript** (deeper dive)
-- ⚛️ **Front-End Frameworks** like React
-- 🌍 **Best practices in responsive and accessible design**
+I’m very curious and eager to keep learning — not just during my training, but well beyond. I’m especially excited to explore more about **JavaScript**, front-end frameworks, and best practices in modern web development.
 
 
 
