@@ -7,6 +7,12 @@ My name is Alina, and I’m a **web developer in training** (développeur web en
 - Solid knowledge of **HTML**, **CSS**, and **Bootstrap**
 - Worked on a **group project** hosted right here on GitHub
 - Basic understanding of **UI/UX design**, including creating website mockups (maquettes de site) using **Figma**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
 
 **🌱 Always learning!**
 
