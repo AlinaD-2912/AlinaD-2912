@@ -4,9 +4,6 @@ My name is Alina, and I’m a **web developer in training** (développeur web en
 
 **✨ What I’ve learned so far: ✨**
 
-- Solid knowledge of **HTML**, **CSS**, and **Bootstrap**
-- Worked on a **group project** hosted right here on GitHub
-- Basic understanding of **UI/UX design**, including creating website mockups (maquettes de site) using **Figma**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
