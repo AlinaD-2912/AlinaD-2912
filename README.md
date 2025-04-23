@@ -7,13 +7,6 @@ I'm currently learning and growing every day as I explore the exciting world of 
 
 
 
-## 💡 About Me
-
-I love crafting clean, responsive websites and diving deep into code to understand how things work.  
-My journey into tech is driven by curiosity and a desire to build things that people enjoy using.
-
-
-
 ## 🛠️ Technologies I've Worked With
 
 <div align="left">
