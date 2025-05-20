@@ -21,7 +21,7 @@ Actuellement en formation *Développeur avancé*, j’approfondis mes compétenc
 
 
 
-📚 En cours d’apprentissage
+## 📚 En cours d’apprentissage
 
 Chaque semaine, j’explore de nouveaux langages de programmation pour renforcer mes connaissances et progresser continuellement.
 
