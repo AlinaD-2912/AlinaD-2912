@@ -2,12 +2,11 @@
 
 # 👋 Welcome to My GitHub!
 
-Hello! I'm **Alina**, a passionate **Web Developer in Training** based in **France** 🇫🇷.  
-I'm currently learning and growing every day as I explore the exciting world of web development.
+Bonjour ! Je suis **Alina**, une **développeuse web en formation**, basée en **France** 🇫🇷.   
+Actuellement en formation *Développeur avancé*, j’approfondis mes compétences chaque jour et découvre avec passion le monde du développement web.  
 
 
-
-## 🛠️ Technologies I've Worked With
+## 🛠️ Technologies que j’apprends et que j’utilise
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" />
@@ -17,20 +16,20 @@ I'm currently learning and growing every day as I explore the exciting world of 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" />
 </div>
 
 
 
-## 🌱 Currently Learning
+📚 En cours d’apprentissage
 
-I’m very curious and eager to keep learning — not just during my training, but well beyond. I’m especially excited to explore more about **JavaScript**, front-end frameworks, and best practices in modern web development.
+Chaque semaine, j’explore de nouveaux langages de programmation pour renforcer mes connaissances et progresser continuellement.
 
 
+## 📫 Me contacter
 
-## 📫 Let’s Connect!
-
-I'm always open to feedback, collaboration, or just a friendly chat!  
-📧 **Email me at**: `alina.dvornyk@le-capus-numerique.fr`
+Je suis toujours ouverte aux échanges, aux retours constructifs, ou simplement à une discussion sympathique !  
+📧 **Vous pouvez m’écrire à** : `alina.dvornyk@le-campus-numerique.fr`
 
 
 
