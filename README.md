@@ -19,7 +19,6 @@ Actuellement en formation *Développeur avancé*, j’approfondis mes compétenc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" title="WordPress" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" width="40" />
-  <img src="https://img.icons8.com/fluency/48/wix.png" title="Wix" width="40" />
 </div>
 
 
