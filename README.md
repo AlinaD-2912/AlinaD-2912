@@ -7,7 +7,6 @@ Bonjour ! Je suis **Alina**, une développeuse passionnée en **formation Concep
 💡 Mon objectif ? Devenir **développeuse fullstack** et contribuer à des projets techniques, utiles et bien pensés.  
 Je m’investis pleinement dans ma formation et cherche constamment à relever de nouveaux défis à travers des projets personnels ou collaboratifs.
 
----
 
 ## 🛠️ Technologies que j’apprends et que j’utilise
 
@@ -31,7 +30,6 @@ Je m’investis pleinement dans ma formation et cherche constamment à relever d
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </div>
 
----
 
 ## 📚 Apprentissage continu
 
@@ -40,7 +38,6 @@ Je m’investis pleinement dans ma formation et cherche constamment à relever d
 J’ai à cœur de rester curieuse et de développer une **compréhension complète du développement logiciel**.  
 Que ce soit un **nouveau langage**, une **bibliothèque**, une **approche UX**, ou encore des concepts d’**architecture logicielle**, je consacre régulièrement du temps à l’apprentissage et à l'expérimentation.
 
----
 
 ## 🤝 Me contacter
 
