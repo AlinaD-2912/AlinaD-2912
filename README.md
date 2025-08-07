@@ -2,9 +2,12 @@
 
 # 👋 Welcome to My GitHub!
 
-Bonjour ! Je suis **Alina**, une **développeuse web en formation**, basée en **France** 🇫🇷.   
-Actuellement en formation *Développeur avancé*, j’approfondis mes compétences chaque jour et découvre avec passion le monde du développement web.  
+Bonjour ! Je suis **Alina**, une développeuse passionnée en **formation Concepteur Développeur d'Applications**, basée en **France** 🇫🇷.
 
+💡 Mon objectif ? Devenir **développeuse fullstack** et contribuer à des projets techniques, utiles et bien pensés.  
+Je m’investis pleinement dans ma formation et cherche constamment à relever de nouveaux défis à travers des projets personnels ou collaboratifs.
+
+---
 
 ## 🛠️ Technologies que j’apprends et que j’utilise
 
@@ -28,26 +31,22 @@ Actuellement en formation *Développeur avancé*, j’approfondis mes compétenc
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </div>
 
+---
 
+## 📚 Apprentissage continu
 
+> 🧠 *J’apprends chaque jour quelque chose de nouveau.*
 
-## 📚 En cours d’apprentissage
+J’ai à cœur de rester curieuse et de développer une **compréhension complète du développement logiciel**.  
+Que ce soit un **nouveau langage**, une **bibliothèque**, une **approche UX**, ou encore des concepts d’**architecture logicielle**, je consacre régulièrement du temps à l’apprentissage et à l'expérimentation.
 
-Chaque semaine, j’explore de nouveaux langages de programmation pour renforcer mes connaissances et progresser continuellement.
+---
 
+## 🤝 Me contacter
 
-## 📫 Me contacter
+Je suis toujours ouverte à :
+- De nouvelles collaborations
+- Des retours constructifs sur mes projets
+- Des discussions autour du développement
 
-Je suis toujours ouverte aux échanges, aux retours constructifs, ou simplement à une discussion sympathique !  
-📧 **Vous pouvez m’écrire à** : `alina.dvornyk@le-campus-numerique.fr`
-
-
-
-<!-- Optional future sections you might want to add:
-## 🧠 Projects I'm Proud Of
-
-## 📚 Courses I'm Taking
-
-## 🎨 Personal Interests
--->
-
+📧 `alina.dvornyk@le-campus-numerique.fr`  
