@@ -49,9 +49,6 @@ Que ce soit un **nouveau langage**, une **bibliothèque**, une **approche UX**, 
 
 ## 🤝 Me contacter
 
-Je suis toujours ouverte à :
-- De nouvelles collaborations
-- Des retours constructifs sur mes projets
-- Des discussions autour du développement
-
 📧 `alina.dvornyk@le-campus-numerique.fr`  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
