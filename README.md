@@ -38,6 +38,8 @@ Je m’investis pleinement dans ma formation et cherche constamment à relever d
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 
 ## 📚 Apprentissage continu
 
@@ -51,4 +53,3 @@ Que ce soit un **nouveau langage**, une **bibliothèque**, une **approche UX**, 
 
 📧 `alina.dvornyk@le-campus-numerique.fr`  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
