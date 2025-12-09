@@ -2,13 +2,12 @@
 
 # 👋 Welcome to My GitHub!
 
-Bonjour ! Je suis **Alina**, une développeuse passionnée en **formation Concepteur Développeur d'Applications**, basée en **France** 🇫🇷.
+Hello, my name's Alina and I am a passionate full stack developer.
 
-💡 Mon objectif ? Devenir **développeuse fullstack** et contribuer à des projets techniques, utiles et bien pensés.  
-Je m’investis pleinement dans ma formation et cherche constamment à relever de nouveaux défis à travers des projets personnels ou collaboratifs.
+💡 My goal is to create useful, complete, easy to navigate and aesthetically pleasing websites, using different programming languages.
 
 
-## 🛠️ Technologies que j’apprends et que j’utilise
+## 🛠️ Here is a list of technologies, frameworks I've already used or in the process of learning
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" />
@@ -41,15 +40,7 @@ Je m’investis pleinement dans ma formation et cherche constamment à relever d
 
 
 
-## 📚 Apprentissage continu
-
-> 🧠 *J’apprends chaque jour quelque chose de nouveau.*
-
-J’ai à cœur de rester curieuse et de développer une **compréhension complète du développement logiciel**.  
-Que ce soit un **nouveau langage**, une **bibliothèque**, une **approche UX**, ou encore des concepts d’**architecture logicielle**, je consacre régulièrement du temps à l’apprentissage et à l'expérimentation.
-
-
-## 🤝 Me contacter
+## 🤝 Contact me here
 
 📧 `alina.dvornyk@le-campus-numerique.fr`  
 
