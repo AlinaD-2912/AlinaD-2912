@@ -4,8 +4,6 @@
 
 Hello, my name's Alina and I am a passionate full stack developer.
 
-💡 My goal is to create useful, complete, easy to navigate and aesthetically pleasing websites, using different programming languages.
-
 
 ## 🛠️ Here is a list of technologies, frameworks I've already used or in the process of learning
 
