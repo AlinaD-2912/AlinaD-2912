@@ -38,9 +38,3 @@ Hello, my name's Alina and I am a passionate full stack developer.
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
 </div>
 
-
-
-## 🤝 Contact me here
-
-📧 `alina.dvornyk@le-campus-numerique.fr`  
-
